@@ -6,7 +6,7 @@ This repository contains a collection of Python projects completed during Udemy'
 
 ## Projects
 
-### 1. [911 Calls Data Analysis](./911-calls-analysis/README.md)
+### 1. 911 Calls Data Analysis
 **Description**:  
 This project analyzes a dataset of 911 emergency calls to uncover patterns and insights. The dataset includes information about call categories, locations, and timestamps, enabling in-depth analysis of emergency services usage.
 
@@ -20,7 +20,7 @@ This project analyzes a dataset of 911 emergency calls to uncover patterns and i
 
 ---
 
-### 2. [Tic Tac Toe Game](./tic-tac-toe/README.md)
+### 2. Tic Tac Toe Game
 **Description**:  
 A Python implementation of the classic Tic Tac Toe game. This interactive game allows two players to compete in a turn-based environment.
 
@@ -34,7 +34,7 @@ A Python implementation of the classic Tic Tac Toe game. This interactive game a
 
 ---
 
-### 3. [Blackjack Game](./blackjack-game/README.md)
+### 3. Blackjack Game
 **Description**:  
 A Python-based simulation of the Blackjack card game. This project utilizes object-oriented programming principles to create an engaging and functional game experience.
 
